@@ -1,0 +1,11 @@
+torch>=2.0
+torchvision>=0.15
+timm==0.5.4
+
+datasets>=2.10
+huggingface_hub>=0.16
+
+numpy>=1.21
+pandas>=1.5
+matplotlib>=3.5
+tqdm>=4.64
